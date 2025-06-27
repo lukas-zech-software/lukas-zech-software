@@ -60,6 +60,7 @@ Scrum, Agile Teams
 
 ## :octocat: Open Source Projects
 - [node_pt8005 - Logger for serial data from PeakTech PT8005](https://github.com/lukas-zech-software/node_pt8005)
+- [Showcase Repository of some of my old work](https://github.com/lukas-zech-software/pwa-ddd-showcase)
 
 ---
 
