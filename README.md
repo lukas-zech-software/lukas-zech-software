@@ -4,6 +4,9 @@ Backend, frontend, testing, DevOps & architecture — "Full Stack" for me means 
 
 In my **14 years as a software developer**, including **10 years as a freelancer**, I’ve gained extensive experience across all areas of software development and team collaboration. I’m now looking to bring that experience into a **long-term permanent position**.
 
+
+> "Clean code and strong communication aren't luxuries — they're the foundation of good software."
+
 ---
 
 ## 🚀 Milestones
@@ -66,4 +69,3 @@ Scrum, Agile Teams
 
 ---
 
-> "Clean code and strong communication aren't luxuries — they're the foundation of good software."
