@@ -61,7 +61,8 @@ Scrum, Agile Teams
 ---
 
 ## 📫 Contact
-**Email**: [lukas.zech.software@gmail.com](mailto:lukas.zech.software@gmail.com)  
+**LinkedIn**: [Lukas Zech](https://www.linkedin.com/in/lukas-z-046a9b150/)
+
 
 ---
 
