@@ -16,7 +16,7 @@ In my **14 years as a software developer**, including **10 years as a freelancer
 ---
 
 ## 🎓 Education
-**Computer Science Expert**  
+**Computer Science Expert (IHK) - Software Development**  
 *Sep 2007 – Feb 2010*  
 Grade: 89 Points (Technical/Practical), GPA: 1.75
 
