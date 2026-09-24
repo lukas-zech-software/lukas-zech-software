@@ -2,7 +2,7 @@
 
 Backend, frontend, testing, DevOps & architecture — "Full Stack" for me means a holistic approach to software solutions. Just like the technical components, the team also needs to communicate well — because software development is a team sport!
 
-In my **14 years as a software developer**, including **10 years as a freelancer**, I’ve gained extensive experience across all areas of software development and team collaboration. I’m now looking to bring that experience into a **long-term permanent position**.
+In my **16 years as a software developer**, including **10 years as a freelancer**, I’ve gained extensive experience across all areas of software development and team collaboration. I’m now looking to bring that experience into a **long-term permanent position**.
 
 
 > "Clean code and strong communication aren't luxuries — they're the foundation of good software."
@@ -60,7 +60,8 @@ Scrum, Agile Teams
 
 ## :octocat: Open Source Projects
 - [node_pt8005 - Logger for serial data from PeakTech PT8005](https://github.com/lukas-zech-software/node_pt8005)
-- [Showcase Repository of some of my old work](https://github.com/lukas-zech-software/pwa-ddd-showcase)
+- [IoT-Showcase Repository of some of my old work](https://github.com/lukas-zech-software/rpi-nest-api)
+- [Cloud-Showcase Repository of some of my old work](https://github.com/lukas-zech-software/pwa-ddd-showcase)
 
 ---
 
