@@ -6,7 +6,7 @@ Backend, frontend, testing, DevOps & architecture — "Full Stack" for me means 
 
 I've been building software professionally since **2010**, across freelance projects, startups (including my own) and engineering teams. I enjoy solving technical problems hands-on, sharing knowledge and making development easier for the people around me. Leadership, mentoring and a good developer experience are part of that work.
 
-> "Clean code and strong communication aren't luxuries — they're the foundation of good software. AI doesn't change that, it emphasis it!
+> "Helping people turn ideas into solutions"
 
 ---
 
@@ -15,7 +15,7 @@ I've been building software professionally since **2010**, across freelance proj
 - **Early Interest**: Built small programs and tools during my school years.
 - **Solid Foundation**: Completed vocational training as a *Computer Science Expert - Software Development (IHK)*.
 - **Growing with a Unicorn**: Worked as a developer at CHECK24 while it became one of the first german Unicorns.
-- **Diverse Experience**: Worked across SaaS, e-commerce and industrial IoT — from cloud platforms to embedded Linux devices.
+- **Diverse Experience**: Worked as a freelancer across SaaS, e-commerce and industrial IoT — from cloud platforms to embedded Linux devices.
 - **Startup Co-Founder**: Co-founded Alliado and built its software and cloud infrastructure, from the business use case to day-to-day operation.
 - **Helping Teams Grow**: Shaped engineering practices as Head of Engineering at become.1, with a focus on quality, shared understanding and constructive communication.
 - **Better Tools, Better Feedback**: Introduced an Nx monorepo, shared TypeScript contracts, automated quality checks and AI-assisted development workflows at b.sure.
