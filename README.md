@@ -13,8 +13,8 @@ I've been building software professionally since **2010**, across freelance proj
 ## 🚀 Milestones
 
 - **Early Interest**: Built small programs and tools during my school years.
-- **Solid Foundation**: Completed vocational training as a *Fachinformatiker für Anwendungsentwicklung* (IHK).
-- **Growing with a Unicorn**: Worked as a developer at CHECK24 during a period of major growth.
+- **Solid Foundation**: Completed vocational training as a *Computer Science Expert - Software Development (IHK)*.
+- **Growing with a Unicorn**: Worked as a developer at CHECK24 while it became one of the first german Unicorns.
 - **Diverse Experience**: Worked across SaaS, e-commerce and industrial IoT — from cloud platforms to embedded Linux devices.
 - **Startup Co-Founder**: Co-founded Alliado and built its software and cloud infrastructure, from the business use case to day-to-day operation.
 - **Helping Teams Grow**: Shaped engineering practices as Head of Engineering at become.1, with a focus on quality, shared understanding and constructive communication.
@@ -32,7 +32,7 @@ In my current role at Xamena, I use **OpenKnowledge** to document business proce
 
 ## 🎓 Education
 
-**IT Specialist in Application Development (IHK)**  
+**Computer Science Expert - Software Development (IHK)**  
 *Fachinformatiker für Anwendungsentwicklung · Sep 2007 – Feb 2010*  
 Final examination: 89 points (technical/practical); school grade average: 1.75 (German grading scale)
 
@@ -43,20 +43,35 @@ Final examination: 89 points (technical/practical); school grade average: 1.75 (
 
 ## 🧠 Skills
 
-**Languages & Frameworks**:  
+**Business Understanding & Requirements**:  
+Understanding business processes and user needs, requirements engineering, translating business goals into technical solutions
+
+**Software Architecture & Design**:  
+Domain-driven design (DDD), domain modelling, shared domain language, API design, system integration, evaluating technical trade-offs
+
+**Collaboration & Technical Leadership**:  
+Kind Engineering, Clear and respectful communication, collaboration across disciplines, mentoring, pair programming, workshop facilitation, constructive conflict resolution
+
+**Languages, Runtimes & Frameworks**:  
 TypeScript, JavaScript, Node.js, NestJS, React, Next.js, Angular
 
-**Testing & Design**:  
-Unit, integration and end-to-end tests, Playwright, TDD, DDD, Clean Code
+**Code Quality & Testing**:  
+Clean Code, refactoring, code reviews, TDD, automated unit, integration and end-to-end tests, Playwright
 
-**DevOps & Tools**:  
-Nx monorepos, CI/CD, GitHub Actions, GitLab CI, Docker, Kubernetes, Google Cloud, AWS, Linux
+**Delivery & Developer Experience**:  
+Agile development, continuous improvement, Nx monorepos, internal tooling, CI/CD, GitHub Actions, GitLab CI
 
-**Databases**:  
+**Cloud & Infrastructure**:  
+Google Cloud, AWS, Docker, Kubernetes, Linux
+
+**Databases & Caching**:  
 MongoDB, PostgreSQL, MySQL, SQLite, Redis
 
-**Practices**:  
-Agile development, code reviews, mentoring, pair programming, developer experience, AI-assisted engineering
+**Knowledge Management & Documentation**:  
+Building and maintaining knowledge bases with OpenKnowledge, documenting business processes and systems, structuring linked knowledge, knowledge sharing
+
+**AI-Assisted Engineering**:  
+Coding agents for analysis, implementation, refactoring, tests and documentation; shared context, quality guardrails and critical review of generated results
 
 ---
 
