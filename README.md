@@ -1,4 +1,4 @@
-# Hi, I'm Lukas Zech — passionate about **Teamwork** and **Clean Code**
+# Hi, I'm Lukas Zech — passionate about **(agentic|human) Teamwork** and **Code Quality**
 
 **Senior Staff/Principal Software Engineer**
 
@@ -26,7 +26,7 @@ I've been building software professionally since **2010**, across freelance proj
 
 I'm exploring how **coding agents and AI-assisted knowledge bases** can make everyday engineering better. That includes clear architecture context, code reviews, automated tests and guardrails — AI-generated code should meet the same standards as everything else we ship.
 
-In my current role at Xamena, I use **OpenKnowledge** to document business processes and support technical decisions. I also built a personal knowledge base that connects my documented experience and references with job requirements to create tailored applications. Yes, there's a little bit of engineering behind the CV, too.
+In my current role at Xamena, I use **OpenKnowledge** to document business processes and support technical decisions. I also built a personal knowledge base that connects my documented experience and references with job requirements to create tailored applications. Yes, there's a little bit of AI engineering behind this profile, too.
 
 ---
 
@@ -93,6 +93,7 @@ Coding agents for analysis, implementation, refactoring, tests and documentation
 
 I've contributed to **DefinitelyTyped**, **InversifyJS** and **node-lmdb**. A few of my own projects and older showcases:
 
+- [kleinanzeigen-agent - a interactive coding tutorial about Agentic Development Kit (ADK)  for devs with hands-on mentality](https://github.com/lukas-zech-software/kleinanzeigen-agent.git)
 - [node_pt8005 — Logger for serial data from PeakTech PT8005](https://github.com/lukas-zech-software/node_pt8005)
 - [IoT Showcase — Some of my earlier work](https://github.com/lukas-zech-software/rpi-nest-api)
 - [Cloud Showcase — Some of my earlier work](https://github.com/lukas-zech-software/pwa-ddd-showcase)
