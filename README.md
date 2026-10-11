@@ -7,6 +7,10 @@ Backend, frontend, testing, DevOps & architecture — "Full Stack" for me means 
 I've been building software professionally since **2010**, across freelance projects, startups (including my own) and engineering teams. I enjoy solving technical problems hands-on, sharing knowledge and making development easier for the people around me. Leadership, mentoring and a good developer experience are part of that work.
 
 > "Helping people turn ideas into solutions"
+---
+
+## :octocat:New open source project!
+> Check out my new interactive tutorial about Google's Agent Development Kit (ADK) [https://github.com/lukas-zech-software/kleinanzeigen-agent]
 
 ---
 
@@ -19,6 +23,7 @@ I've been building software professionally since **2010**, across freelance proj
 - **Startup Co-Founder**: Co-founded Alliado and built its software and cloud infrastructure, from the business use case to day-to-day operation.
 - **Helping Teams Grow**: Shaped engineering practices as Head of Engineering at become.1, with a focus on quality, shared understanding and constructive communication.
 - **Better Tools, Better Feedback**: Introduced an Nx monorepo, shared TypeScript contracts, automated quality checks and AI-assisted development workflows at b.sure.
+
 
 ---
 
