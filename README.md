@@ -10,7 +10,7 @@ I've been building software professionally since **2010**, across freelance proj
 ---
 
 ## :octocat:New open source project!
-> Check out my new interactive tutorial about Google's Agent Development Kit (ADK) [https://github.com/lukas-zech-software/kleinanzeigen-agent]
+> Check out my new spec-driven, multi-agent AI engineering experiment [https://github.com/lukas-zech-software/everlast-lm]
 
 ---
 
