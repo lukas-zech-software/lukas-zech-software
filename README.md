@@ -1,5 +1,17 @@
 # Hi, I'm Lukas Zech — passionate about **(agentic|human) Teamwork** and **Code Quality**
 
+![build](https://img.shields.io/badge/build-passing%20since%202010-brightgreen?logo=githubactions&logoColor=white)
+![uptime](https://img.shields.io/badge/uptime-16%2B%20years-brightgreen)
+![coverage](https://img.shields.io/badge/coverage-100%25%20of%20what%20matters-brightgreen?logo=codecov&logoColor=white)
+![code quality](https://img.shields.io/badge/code%20quality-A%2B%2B%2B-brightgreen?logo=codeclimate&logoColor=white)
+![tests](https://img.shields.io/badge/testing-%20Unit%2FIntegration%2FSystem%2FE2E-success)
+![types](https://img.shields.io/badge/types-strict-3178C6?logo=typescript&logoColor=white)
+![teamwork](https://img.shields.io/badge/teamwork-%28agentic%7Chuman%29-blueviolet)
+![code reviews](https://img.shields.io/badge/code%20reviews-kind%20but%20thorough-ff69b4)
+![AI agents](https://img.shields.io/badge/AI%20agents-Claude%2FCodex%2FAntigravity-orange?logo=claude&logoColor=white)
+![works on](https://img.shields.io/badge/works%20on-every%20machine-2496ED?logo=docker&logoColor=white)
+![powered by](https://img.shields.io/badge/powered%20by-coffee-6F4E37?logo=buymeacoffee&logoColor=white)
+
 **Senior Staff/Principal Software Engineer**
 
 Backend, frontend, testing, DevOps & architecture — "Full Stack" for me means taking responsibility for the whole journey, from understanding the business problem to running software and learning from user feedback. Just like the technical components, the team needs to communicate well — because software development is a team sport!
