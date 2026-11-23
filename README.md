@@ -3,17 +3,14 @@
 ![build](https://img.shields.io/badge/build-passing%20since%202010-brightgreen?logo=githubactions&logoColor=white)
 ![uptime](https://img.shields.io/badge/uptime-16%2B%20years-brightgreen)
 ![coverage](https://img.shields.io/badge/coverage-100%25%20of%20what%20matters-brightgreen?logo=codecov&logoColor=white)
-![code quality](https://img.shields.io/badge/code%20quality-A%2B-brightgreen?logo=codeclimate&logoColor=white)
-![tests](https://img.shields.io/badge/tests-written%20first-success)
+![code quality](https://img.shields.io/badge/code%20quality-A%2B%2B%2B-brightgreen?logo=codeclimate&logoColor=white)
+![tests](https://img.shields.io/badge/testing-%20Unit%2FIntegration%2FSystem%2FE2E-success)
 ![types](https://img.shields.io/badge/types-strict-3178C6?logo=typescript&logoColor=white)
 ![teamwork](https://img.shields.io/badge/teamwork-%28agentic%7Chuman%29-blueviolet)
 ![code reviews](https://img.shields.io/badge/code%20reviews-kind%20but%20thorough-ff69b4)
-![bus factor](https://img.shields.io/badge/bus%20factor-%E2%88%9E%20%28it%27s%20documented%29-blue)
-![AI agents](https://img.shields.io/badge/AI%20agents-on%20a%20short%20leash-orange?logo=claude&logoColor=white)
+![AI agents](https://img.shields.io/badge/AI%20agents-Claude%2FCodex%2FAntigravity-orange?logo=claude&logoColor=white)
 ![works on](https://img.shields.io/badge/works%20on-every%20machine-2496ED?logo=docker&logoColor=white)
-![tech debt](https://img.shields.io/badge/tech%20debt-paid%20on%20time-blue)
 ![powered by](https://img.shields.io/badge/powered%20by-coffee-6F4E37?logo=buymeacoffee&logoColor=white)
-![license](https://img.shields.io/badge/license-Kind%20Engineering-lightgrey)
 
 **Senior Staff/Principal Software Engineer**
 
